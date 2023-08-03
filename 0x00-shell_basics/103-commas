@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --format=comma -a -F 
+ls --format=comma -a -F -v 
