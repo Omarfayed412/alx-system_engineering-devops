@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.js" -delete#Find the files of type f (files) and have .js at the end then edelet them 
+find . -type f -name "*.js" -delete #Find the files of type f files and have .js at the end then edelet them 
