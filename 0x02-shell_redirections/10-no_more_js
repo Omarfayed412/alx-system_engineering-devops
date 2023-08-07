@@ -1,1 +1,2 @@
-VimCrypt~03!ÛïS80£ç×ø`p!4ë|Ü0¨m¹ìPùÆMYÚ‰a¸z½ ì€ÄëĞµö•O:ĞSEIXà“,§"¡äEÎo“²Ç&vO»Ø,ÓdÁ²y²'8°V¼ˆö™O)…æe"Şà=¾dÖÚ8;,½"¾|sóÁ¯ù‚Í‹*°uıÚN¾e;PbÓ¢HŸW^¯
+#!/bin/bash
+find . -type f -name "*.js" -delete#Find the files of type f (files) and have .js at the end then edelet them 
